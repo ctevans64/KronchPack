@@ -1,6 +1,6 @@
 {
   "name": "KronchPack",
-  "version_number": "1.0.1",
+  "version_number": "1.0.2",
   "website_url": "https://github.com/ctevans64/KronchPack",
   "description": "Lethal Company modpack for the Kronch",
   "dependencies": [
@@ -21,6 +21,7 @@
     "AllToasters-SpectateEnemies-1.5.0",
     "HomelessGinger-MaskedEnemyOverhaul-2.0.1",
     "RickArg-Helmet_Cameras-2.1.5",
-    "BatTeam-LethalFashion-1.0.4"
+    "BatTeam-LethalFashion-1.0.4",
+    "FlipMods-ObjectVolumeController-1.0.3"
   ]
 }
